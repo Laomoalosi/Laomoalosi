@@ -1,4 +1,4 @@
-### Hi there, I'm Laone - aka [QU35T] 👋
+### Hi there, I'm Laone - aka QU35T 👋
 
 ## I'm a Student, Cybersecurity Enthusiast, Developer.
 - 🔭 I’m currently working on my own small coding projects
