@@ -43,7 +43,3 @@
 [twitter]:https://twitter.com/thatniggalao
 [instagram]:https://www.instagram.com/thatniggalao/
 [linkedin]:https://www.linkedin.com/in/laone-moalosi-35784b155/
-[webdevplaylist]:
-[jsplaylist]:
-[cssplaylist]: 
-[reactplaylist]: 
