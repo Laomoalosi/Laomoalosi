@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **I’m currently working on my own small coding projects**
 
-- 🌱 I’m currently learning **I’m currently learning everything rofl**
+- 🌱 I’m currently learning **I’m currently learning everything**
 
 - 👯 I’m looking to collaborate on **I’m looking to collaborate with other content creators**
 
