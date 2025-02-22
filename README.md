@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Cybersecurity**
 
-- 📫 How to reach me **laomoalosi@gmail.com**
+- 📫 How to reach me **Laone Moalosi on LinkedIn**
 
 - ⚡ Fun fact **Tab over Spacebar**
 - 🥅 2020 Goals **Contribute more to Open Source projects**
